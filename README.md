@@ -5,13 +5,13 @@
 
 
 ## Overview
-This image is based on Ubuntu 18.04 and has the following packages installed:
-- CUDA-10.2.89
+This image is based on Ubuntu 22.04 and has the following packages installed:
+- CUDA-12.2
 - nvidia-docker
-- CMake-3.10.2
-- VTK-8.2.0
-- PCL-1.11.0
-- OpenCV-4.4.0
+- CMake-3.28
+- VTK-9.5.0
+- PCL-1.15.0
+- OpenCV-4.11.0
 - Eigen
 - Flann
 - Boost
